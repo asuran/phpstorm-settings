@@ -1,0 +1,25 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="default" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://192.168.99.103:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="machine" value="default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="payment" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://192.168.99.102:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/payment" />
+        <option name="machine" value="payment" />
+      </configuration>
+    </remote-server>
+    <remote-server name="method" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://192.168.99.101:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/method" />
+        <option name="machine" value="method" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

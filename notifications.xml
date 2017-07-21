@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Composer" displayType="NONE" shouldLog="false" />
+    <notification groupId="IGNORE_GROUP_UPDATE" displayType="NONE" />
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="sftp://vagrant@127.0.0.1:2222/usr/bin/node" WEB_SERVER_CONFIG_ID="81ca8ff2-b7aa-42f5-8e34-552fa4d36e10" WEB_SERVER_CONFIG_NAME="leos.content.local" HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/node" HELPERS_PATH="/home/vagrant/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="0.10.25" />
+  </component>
+</application>

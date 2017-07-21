@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*Form.php" />
+    <recentFileMasks>
+      <mask>.p</mask>
+      <mask>.ph</mask>
+      <mask>!*.php</mask>
+      <mask>!*.html</mask>
+      <mask>!*.html,</mask>
+      <mask>!*.html, !</mask>
+      <mask>!*.html, !*coverage</mask>
+      <mask>*T.php</mask>
+      <mask>*Te.php</mask>
+      <mask>*Test.php.php</mask>
+      <mask>*Test.ph.php</mask>
+      <mask>*Test.p.php</mask>
+      <mask>*Test..php</mask>
+      <mask>*Test.php</mask>
+      <mask>*(.php</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
+      <mask>*.ph</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.yml</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>.php</mask>
+      <mask>F.php</mask>
+      <mask>Form.php</mask>
+      <mask>*Form.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="MySQL" injector-id="php">
+      <display-name>&lt;&lt;&lt; MYSQL</display-name>
+      <place><![CDATA[phpLiteralExpression("MYSQL")]]></place>
+    </injection>
+    <injection language="PostgresPLSQL" injector-id="php">
+      <display-name>&lt;&lt;&lt; PGSQL</display-name>
+      <place><![CDATA[phpLiteralExpression("PGSQL")]]></place>
+    </injection>
+  </component>
+</application>
