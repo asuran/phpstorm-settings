@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Exception.php" />
     <recentFileMasks>
-      <mask>.ph</mask>
-      <mask>!*.php</mask>
-      <mask>!*.html</mask>
-      <mask>!*.html,</mask>
-      <mask>!*.html, !</mask>
-      <mask>!*.html, !*coverage</mask>
-      <mask>*T.php</mask>
-      <mask>*Te.php</mask>
-      <mask>*Test.php.php</mask>
       <mask>*Test.ph.php</mask>
       <mask>*Test.p.php</mask>
       <mask>*Test..php</mask>
@@ -34,6 +26,15 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.po</mask>
+      <mask>*E.po</mask>
+      <mask>*Ex.po</mask>
+      <mask>*Exc.po</mask>
+      <mask>*Excep.po</mask>
+      <mask>*Exceptio.po</mask>
+      <mask>*Exception.po</mask>
+      <mask>*Exception.p</mask>
+      <mask>*Exception.ph</mask>
+      <mask>*Exception.php</mask>
     </recentFileMasks>
   </component>
 </application>
