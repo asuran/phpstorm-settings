@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.php,!Version*.php" />
+    <option name="FILE_MASK" value="Dockerfile*" />
     <recentFileMasks>
-      <mask>.php</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.po</mask>
-      <mask>*E.po</mask>
       <mask>*Ex.po</mask>
       <mask>*Exc.po</mask>
       <mask>*Excep.po</mask>
@@ -35,6 +28,13 @@
       <mask>!*Test.php!Version*.php</mask>
       <mask>!*Test.php, !Version*.php</mask>
       <mask>!*Test.php,!Version*.php</mask>
+      <mask>D</mask>
+      <mask>Do</mask>
+      <mask>Docker</mask>
+      <mask>Dockerfi</mask>
+      <mask>Dockerfil</mask>
+      <mask>Dockerfile</mask>
+      <mask>Dockerfile*</mask>
     </recentFileMasks>
   </component>
 </application>
