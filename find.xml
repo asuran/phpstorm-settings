@@ -3,22 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test.php,!Version*.php" />
     <recentFileMasks>
-      <mask>*Test.ph.php</mask>
-      <mask>*Test.p.php</mask>
-      <mask>*Test..php</mask>
-      <mask>*Test.php</mask>
-      <mask>*(.php</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
-      <mask>&amp;</mask>
-      <mask>*.yml</mask>
-      <mask>*.p</mask>
-      <mask>F.php</mask>
-      <mask>Form.php</mask>
-      <mask>*Form.php</mask>
       <mask>.php</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
@@ -34,6 +20,21 @@
       <mask>*Exception.p</mask>
       <mask>*Exception.ph</mask>
       <mask>*Exception.php</mask>
+      <mask>!*Exception.php</mask>
+      <mask>!C.php</mask>
+      <mask>!.php</mask>
+      <mask>!V.php</mask>
+      <mask>!Ver.php</mask>
+      <mask>!Version.php</mask>
+      <mask>!Version*.php</mask>
+      <mask>!!Version*.php</mask>
+      <mask>!*Еуые!Version*.php</mask>
+      <mask>!*!Version*.php</mask>
+      <mask>!*Test!Version*.php</mask>
+      <mask>!*Test.!Version*.php</mask>
+      <mask>!*Test.php!Version*.php</mask>
+      <mask>!*Test.php, !Version*.php</mask>
+      <mask>!*Test.php,!Version*.php</mask>
     </recentFileMasks>
   </component>
 </application>
