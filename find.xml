@@ -3,28 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test.php,!*Cest.php" />
     <recentFileMasks>
-      <mask>*Ex.po</mask>
-      <mask>*Exc.po</mask>
-      <mask>*Excep.po</mask>
-      <mask>*Exceptio.po</mask>
-      <mask>*Exception.po</mask>
-      <mask>*Exception.p</mask>
-      <mask>*Exception.ph</mask>
-      <mask>*Exception.php</mask>
-      <mask>!*Exception.php</mask>
-      <mask>!C.php</mask>
-      <mask>!.php</mask>
-      <mask>!V.php</mask>
-      <mask>!Ver.php</mask>
-      <mask>!Version.php</mask>
-      <mask>!Version*.php</mask>
-      <mask>!!Version*.php</mask>
-      <mask>!*Еуые!Version*.php</mask>
-      <mask>!*!Version*.php</mask>
-      <mask>!*Test!Version*.php</mask>
-      <mask>!*Test.!Version*.php</mask>
-      <mask>!*Test.php!Version*.php</mask>
       <mask>!*Test.php, !Version*.php</mask>
       <mask>!*Test.php,!Version*.php</mask>
       <mask>D</mask>
@@ -34,6 +14,27 @@
       <mask>Dockerfil</mask>
       <mask>Dockerfile</mask>
       <mask>Dockerfile*</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*T</mask>
+      <mask>!*TE</mask>
+      <mask>!*Te</mask>
+      <mask>!*Test</mask>
+      <mask>!*Test.</mask>
+      <mask>!*Test.phpб</mask>
+      <mask>!*Test.phpб</mask>
+      <mask>!*Test.php</mask>
+      <mask>!*Test.php,</mask>
+      <mask>!*Test.php,</mask>
+      <mask>!*Test.php, *</mask>
+      <mask>!*Test.php, *C</mask>
+      <mask>!*Test.php, *Ce</mask>
+      <mask>!*Test.php, *Ces</mask>
+      <mask>!*Test.php, *Cest</mask>
+      <mask>!*Test.php, *Cest.</mask>
+      <mask>!*Test.php, *Cest.php</mask>
+      <mask>!*Test.php,*Cest.php</mask>
+      <mask>!*Test.php,!*Cest.php</mask>
     </recentFileMasks>
   </component>
 </application>
