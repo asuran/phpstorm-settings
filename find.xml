@@ -5,13 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.php,!*Cest.php" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*DOCK*</mask>
-      <mask>*DOCKER*</mask>
-      <mask>*DOCKE*</mask>
-      <mask>*DOC*</mask>
-      <mask>*D*</mask>
       <mask>*Do*</mask>
       <mask>*Dock*</mask>
       <mask>*DockerFI*</mask>
@@ -37,6 +32,11 @@
       <mask>!*Test.php,!*Cest</mask>
       <mask>!*Test.php,!*Cest.</mask>
       <mask>!*Test.php,!*Cest.php</mask>
+      <mask>*</mask>
+      <mask>*.hp</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
