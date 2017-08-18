@@ -5,16 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <recentFileMasks>
-      <mask>*Do*</mask>
-      <mask>*Dock*</mask>
-      <mask>*DockerFI*</mask>
-      <mask>*DockerFIle*</mask>
-      <mask>*DockerFIl*</mask>
-      <mask>*Docker*</mask>
-      <mask>*Dockerfi*</mask>
-      <mask>*Dockerfile*</mask>
-      <mask>Dockerfile*</mask>
       <mask>!</mask>
       <mask>!Tes</mask>
       <mask>!Test</mask>
@@ -36,6 +28,15 @@
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*Con.php</mask>
+      <mask>*Conteol.php</mask>
+      <mask>*Conteoll.php</mask>
+      <mask>*Conteo.php</mask>
+      <mask>*Conte.php</mask>
+      <mask>*Cont.php</mask>
+      <mask>*Contro.php</mask>
+      <mask>*Control.php</mask>
+      <mask>*Controller.php</mask>
     </recentFileMasks>
   </component>
 </application>
