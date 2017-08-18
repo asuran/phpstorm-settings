@@ -5,13 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller.php" />
+    <option name="FILE_MASK" value="*Table.php" />
     <recentFileMasks>
-      <mask>!</mask>
-      <mask>!Tes</mask>
-      <mask>!Test</mask>
-      <mask>!Test.</mask>
-      <mask>!Test.p</mask>
       <mask>!Test.php</mask>
       <mask>!Test.php,*</mask>
       <mask>!Test.php,</mask>
@@ -37,6 +32,11 @@
       <mask>*Contro.php</mask>
       <mask>*Control.php</mask>
       <mask>*Controller.php</mask>
+      <mask>*T.php</mask>
+      <mask>*Ta.php</mask>
+      <mask>*Tab.php</mask>
+      <mask>*Tabl.php</mask>
+      <mask>*Table.php</mask>
     </recentFileMasks>
   </component>
 </application>
