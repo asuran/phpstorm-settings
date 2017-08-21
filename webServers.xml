@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="81ca8ff2-b7aa-42f5-8e34-552fa4d36e10" name="leos.content.local" url="http://leos.content.local">
-        <fileTransfer port="0" mountedRoot="$USER_HOME$/Desktop/leos.content" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>
