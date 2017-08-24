@@ -3,29 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,!*Version*.php," />
     <recentFileMasks>
-      <mask>!Test.php</mask>
-      <mask>!Test.php,*</mask>
-      <mask>!Test.php,</mask>
-      <mask>!*Test.php,</mask>
-      <mask>!*Test.php,!</mask>
-      <mask>!*Test.php,!*</mask>
-      <mask>!*Test.php,!*C</mask>
-      <mask>!*Test.php,!*Ce</mask>
-      <mask>!*Test.php,!*Cest</mask>
-      <mask>!*Test.php,!*Cest.</mask>
-      <mask>!*Test.php,!*Cest.php</mask>
-      <mask>*</mask>
-      <mask>*.hp</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.php</mask>
-      <mask>*Con.php</mask>
-      <mask>*Conteol.php</mask>
-      <mask>*Conteoll.php</mask>
-      <mask>*Conteo.php</mask>
-      <mask>*Conte.php</mask>
-      <mask>*Cont.php</mask>
       <mask>*Contro.php</mask>
       <mask>*Control.php</mask>
       <mask>*Controller.php</mask>
@@ -34,6 +13,28 @@
       <mask>*Tab.php</mask>
       <mask>*Tabl.php</mask>
       <mask>*Table.php</mask>
+      <mask>*.php</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,!</mask>
+      <mask>*.php,!*Mig</mask>
+      <mask>*.php,!*Migra</mask>
+      <mask>*.php,!*Migrations</mask>
+      <mask>*.php,!*Migration</mask>
+      <mask>*.php,!*Migrati</mask>
+      <mask>*.php,!*Migrat</mask>
+      <mask>*.php,!*Migr</mask>
+      <mask>*.php,!*Mi</mask>
+      <mask>*.php,!*M</mask>
+      <mask>*.php,!*</mask>
+      <mask>*.php,!*V</mask>
+      <mask>*.php,!*Ver</mask>
+      <mask>*.php,!*Versio</mask>
+      <mask>*.php,!*Version</mask>
+      <mask>*.php,!*Version*</mask>
+      <mask>*.php,!*Version*.</mask>
+      <mask>*.php,!*Version*.ph</mask>
+      <mask>*.php,!*Version*.php</mask>
+      <mask>*.php,!*Version*.php,</mask>
     </recentFileMasks>
   </component>
 </application>
