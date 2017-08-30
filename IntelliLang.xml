@@ -1,5 +1,13 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="php">
+      <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
+      <place disabled="true"><![CDATA[phpLiteralMatchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*")]]></place>
+    </injection>
+    <injection language="SQL" injector-id="php">
+      <display-name>&quot;SQL select/delete/insert/update/create&quot; Excluding Doctrine DQL</display-name>
+      <place><![CDATA[and(not(phpLiteralMatchesBrics(".*:.*")), phpLiteralMatchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*"))]]></place>
+    </injection>
     <injection language="MySQL" injector-id="php">
       <display-name>&lt;&lt;&lt; MYSQL</display-name>
       <place><![CDATA[phpLiteralExpression("MYSQL")]]></place>
