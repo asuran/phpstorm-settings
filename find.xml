@@ -4,14 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Contro.php</mask>
-      <mask>*Control.php</mask>
-      <mask>*Controller.php</mask>
-      <mask>*T.php</mask>
-      <mask>*Ta.php</mask>
-      <mask>*Tab.php</mask>
-      <mask>*Tabl.php</mask>
-      <mask>*Table.php</mask>
       <mask>*.php</mask>
       <mask>*.php,</mask>
       <mask>*.php,!</mask>
@@ -34,6 +26,14 @@
       <mask>*.php,!*Version*.ph</mask>
       <mask>*.php,!*Version*.php</mask>
       <mask>*.php,!*Version*.php,</mask>
+      <mask>*</mask>
+      <mask>*.uml</mask>
+      <mask>*.um</mask>
+      <mask>*.u</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
