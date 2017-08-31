@@ -9,7 +9,7 @@
     </remote-server>
     <remote-server name="payment" type="docker">
       <configuration>
-        <option name="apiUrl" value="https://192.168.99.102:2376" />
+        <option name="apiUrl" value="https://192.168.99.101:2376" />
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/payment" />
         <option name="machine" value="payment" />
       </configuration>
