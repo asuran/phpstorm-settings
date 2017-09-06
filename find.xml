@@ -3,26 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!Version*.php, *.php" />
     <recentFileMasks>
-      <mask>*.php</mask>
-      <mask>*.php,</mask>
-      <mask>*.php,!</mask>
-      <mask>*.php,!*Mig</mask>
-      <mask>*.php,!*Migra</mask>
-      <mask>*.php,!*Migrations</mask>
-      <mask>*.php,!*Migration</mask>
-      <mask>*.php,!*Migrati</mask>
-      <mask>*.php,!*Migrat</mask>
-      <mask>*.php,!*Migr</mask>
-      <mask>*.php,!*Mi</mask>
-      <mask>*.php,!*M</mask>
-      <mask>*.php,!*</mask>
-      <mask>*.php,!*V</mask>
-      <mask>*.php,!*Ver</mask>
-      <mask>*.php,!*Versio</mask>
-      <mask>*.php,!*Version</mask>
-      <mask>*.php,!*Version*</mask>
-      <mask>*.php,!*Version*.</mask>
       <mask>*.php,!*Version*.ph</mask>
       <mask>*.php,!*Version*.php</mask>
       <mask>*.php,!*Version*.php,</mask>
@@ -34,6 +16,25 @@
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>!*.</mask>
+      <mask>!*</mask>
+      <mask>!</mask>
+      <mask>!V</mask>
+      <mask>!Ver</mask>
+      <mask>!Version</mask>
+      <mask>!Version*</mask>
+      <mask>!Version*.</mask>
+      <mask>!Version*.php</mask>
+      <mask>!Version*.php,</mask>
+      <mask>!Version*.php,</mask>
+      <mask>!Version*.php, *</mask>
+      <mask>!Version*.php, *.oho</mask>
+      <mask>!Version*.php, *.oh</mask>
+      <mask>!Version*.php, *.o</mask>
+      <mask>!Version*.php, *.hp</mask>
+      <mask>!Version*.php, *.h</mask>
+      <mask>!Version*.php, *.</mask>
+      <mask>!Version*.php, *.php</mask>
     </recentFileMasks>
   </component>
 </application>
