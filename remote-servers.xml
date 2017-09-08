@@ -1,10 +1,10 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="default" type="docker">
+    <remote-server name="content" type="docker">
       <configuration>
-        <option name="apiUrl" value="https://192.168.99.103:2376" />
-        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
-        <option name="machine" value="default" />
+        <option name="apiUrl" value="https://192.168.99.100:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/content" />
+        <option name="machine" value="content" />
       </configuration>
     </remote-server>
     <remote-server name="payment" type="docker">
