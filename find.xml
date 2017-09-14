@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>!Version*.</mask>
-      <mask>!Version*.php</mask>
-      <mask>!Version*.php,</mask>
-      <mask>!Version*.php,</mask>
       <mask>!Version*.php, *</mask>
       <mask>!Version*.php, *.oho</mask>
       <mask>!Version*.php, *.oh</mask>
@@ -34,6 +31,10 @@
       <mask>module.config.</mask>
       <mask>module.config.p</mask>
       <mask>module.config.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
