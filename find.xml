@@ -1,14 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>!Version*.php, *</mask>
-      <mask>!Version*.php, *.oho</mask>
       <mask>!Version*.php, *.oh</mask>
       <mask>!Version*.php, *.o</mask>
       <mask>!Version*.php, *.hp</mask>
@@ -33,10 +29,12 @@
       <mask>module.config.</mask>
       <mask>module.config.p</mask>
       <mask>module.config.php</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
