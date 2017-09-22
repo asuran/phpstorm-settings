@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://raw.githubusercontent.com/windyroad/JUnit-Schema/master/JUnit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.2/extResources/466a3be7_JUnit.xsd" />
+  </component>
+</application>
