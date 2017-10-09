@@ -241,6 +241,11 @@
       </rules>
     </arrangement>
   </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
