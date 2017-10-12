@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="!password.php" />
     <recentFileMasks>
-      <mask>!Version*.php, *.hp</mask>
-      <mask>!Version*.php, *.h</mask>
-      <mask>!Version*.php, *.</mask>
-      <mask>!Version*.php, *.php</mask>
-      <mask>!</mask>
-      <mask>!*tes</mask>
-      <mask>!*t</mask>
-      <mask>!*</mask>
-      <mask>!*T</mask>
-      <mask>!*Test</mask>
       <mask>!*Test.</mask>
       <mask>!*Test.ph</mask>
       <mask>!*Test.php</mask>
@@ -35,6 +25,16 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>!*.php</mask>
+      <mask>!.php</mask>
+      <mask>!pa.php</mask>
+      <mask>!pas.php</mask>
+      <mask>!paswo.php</mask>
+      <mask>!pasw.php</mask>
+      <mask>!pass.php</mask>
+      <mask>!passwo.php</mask>
+      <mask>!passwor.php</mask>
+      <mask>!password.php</mask>
     </recentFileMasks>
   </component>
 </application>
