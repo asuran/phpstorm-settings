@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/Library/Caches/PhpStorm2017.2/extResources/42abd8c6_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/Library/Caches/PhpStorm2017.2/extResources/9f6330fe_.xml" />
     <resource url="https://raw.githubusercontent.com/windyroad/JUnit-Schema/master/JUnit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.2/extResources/466a3be7_JUnit.xsd" />
   </component>
 </application>
