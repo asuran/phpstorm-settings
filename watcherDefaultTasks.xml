@@ -1,19 +1,19 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="fix $FileDir$/$FileName$ --verbose" />
+      <option name="arguments" value="run --rm -v $ProjectFileDir$:/app/build php-cs-fixer fix /app/build/$FileDirRelativeToProjectRoot$/$FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="php" />
       <option name="immediateSync" value="true" />
       <option name="name" value="PHP CS Fixer" />
-      <option name="output" value="$FileDir$/$FileName$" />
+      <option name="output" value="$ProjectFileDir$" />
       <option name="outputFilters">
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="docker://base.docker.lamoda.ru/utils/php-cs-fixer/php-cs-fixer" />
+      <option name="program" value="docker" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
