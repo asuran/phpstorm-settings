@@ -8,19 +8,20 @@
       <mapping pattern="formate" type="JSON" />
       <mapping pattern="ClsFormatterTest" type="PHP" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="php-dockerized" type="PLAIN_TEXT" />
       <mapping pattern=".dmachine" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="sku_with_duplicates" type="PLAIN_TEXT" />
       <mapping pattern="grep" type="PLAIN_TEXT" />
+      <mapping pattern="dump1" type="PLAIN_TEXT" />
       <mapping pattern="dump2" type="PLAIN_TEXT" />
-      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="phantomjs" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="dump3" type="PLAIN_TEXT" />
-      <mapping pattern="dump1" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
