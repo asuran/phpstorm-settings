@@ -4,15 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>module.config.</mask>
-      <mask>module.config.p</mask>
-      <mask>module.config.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>!*.php</mask>
       <mask>!.php</mask>
@@ -34,6 +25,15 @@
       <mask>*Factory.</mask>
       <mask>*Factory.p</mask>
       <mask>*Factory.php</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*/</mask>
+      <mask>!*/v</mask>
+      <mask>!*/ven</mask>
+      <mask>!*/vendo</mask>
+      <mask>!*/vendor</mask>
+      <mask>!*vendor</mask>
+      <mask>!vendor</mask>
     </recentFileMasks>
   </component>
 </application>
