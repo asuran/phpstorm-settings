@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>!password.php</mask>
-      <mask>*F</mask>
       <mask>*Fa</mask>
       <mask>*Faco</mask>
       <mask>*Fac</mask>
@@ -21,8 +20,6 @@
       <mask>!*/vendor</mask>
       <mask>!*vendor</mask>
       <mask>!vendor</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
@@ -34,6 +31,10 @@
       <mask>!*Test.</mask>
       <mask>!*Test.ph</mask>
       <mask>!*Test.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
