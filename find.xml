@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.php,</mask>
-      <mask>*.php,</mask>
-      <mask>*.php, !</mask>
-      <mask>*.php, !Test</mask>
       <mask>*.php, !T</mask>
       <mask>*.php, !*Test</mask>
       <mask>*.php, !*Test.</mask>
@@ -34,6 +30,10 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.phtml</mask>
+      <mask>fo</mask>
+      <mask>for</mask>
+      <mask>form</mask>
+      <mask>form*</mask>
     </recentFileMasks>
   </component>
 </application>
