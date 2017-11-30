@@ -3,29 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
-      <mask>!*/</mask>
-      <mask>!*/v</mask>
-      <mask>!*/ven</mask>
-      <mask>!*/vendo</mask>
-      <mask>!*/vendor</mask>
-      <mask>!*vendor</mask>
-      <mask>!vendor</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>!*.</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*Test&gt;</mask>
-      <mask>!*Test</mask>
-      <mask>!*Test.</mask>
-      <mask>!*Test.ph</mask>
-      <mask>!*Test.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.php,</mask>
       <mask>*.php,</mask>
       <mask>*.php, !</mask>
@@ -34,6 +13,28 @@
       <mask>*.php, !*Test</mask>
       <mask>*.php, !*Test.</mask>
       <mask>*.php, !*Test.php</mask>
+      <mask>$</mask>
+      <mask>*view</mask>
+      <mask>*vie</mask>
+      <mask>*vi</mask>
+      <mask>*v</mask>
+      <mask>view</mask>
+      <mask>view/*</mask>
+      <mask>view/</mask>
+      <mask>in</mask>
+      <mask>ind</mask>
+      <mask>inde</mask>
+      <mask>index</mask>
+      <mask>index.</mask>
+      <mask>index.p</mask>
+      <mask>index.ph</mask>
+      <mask>index.phtm</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
