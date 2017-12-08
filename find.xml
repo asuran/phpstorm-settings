@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Table.php" />
     <recentFileMasks>
-      <mask>view</mask>
-      <mask>view/*</mask>
-      <mask>view/</mask>
-      <mask>in</mask>
-      <mask>ind</mask>
       <mask>inde</mask>
       <mask>index</mask>
       <mask>index.</mask>
@@ -34,6 +30,11 @@
       <mask>*Factory.</mask>
       <mask>*Factory.p</mask>
       <mask>*Factory.php</mask>
+      <mask>*.php</mask>
+      <mask>*T.php</mask>
+      <mask>*Ta.php</mask>
+      <mask>*Tab.php</mask>
+      <mask>*Table.php</mask>
     </recentFileMasks>
   </component>
 </application>
