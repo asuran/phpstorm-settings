@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Table.php" />
     <recentFileMasks>
       <mask>index</mask>
       <mask>index.</mask>
@@ -32,8 +33,8 @@
       <mask>*T.php</mask>
       <mask>*Ta.php</mask>
       <mask>*Tab.php</mask>
-      <mask>*Table.php</mask>
       <mask>*Table.ph</mask>
+      <mask>*Table.php</mask>
     </recentFileMasks>
   </component>
 </application>
