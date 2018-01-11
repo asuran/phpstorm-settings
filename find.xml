@@ -4,13 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>index</mask>
       <mask>index.</mask>
       <mask>index.p</mask>
       <mask>index.ph</mask>
       <mask>index.phtm</mask>
       <mask>&amp;</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.phtml</mask>
@@ -18,7 +16,6 @@
       <mask>for</mask>
       <mask>form</mask>
       <mask>form*</mask>
-      <mask>*</mask>
       <mask>*F</mask>
       <mask>*Fa</mask>
       <mask>*Fac</mask>
@@ -34,6 +31,9 @@
       <mask>*Tab.php</mask>
       <mask>*Table.ph</mask>
       <mask>*Table.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
