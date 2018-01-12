@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>index.</mask>
       <mask>index.p</mask>
@@ -10,7 +11,6 @@
       <mask>index.phtm</mask>
       <mask>&amp;</mask>
       <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.phtml</mask>
       <mask>fo</mask>
       <mask>for</mask>
@@ -25,15 +25,16 @@
       <mask>*Factory.</mask>
       <mask>*Factory.p</mask>
       <mask>*Factory.php</mask>
-      <mask>*.php</mask>
       <mask>*T.php</mask>
       <mask>*Ta.php</mask>
       <mask>*Tab.php</mask>
       <mask>*Table.ph</mask>
       <mask>*Table.php</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
