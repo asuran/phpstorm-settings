@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.phtml</mask>
       <mask>fo</mask>
@@ -20,7 +21,6 @@
       <mask>*Factory.php</mask>
       <mask>*Table.ph</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.Ефиду=php</mask>
@@ -34,6 +34,7 @@
       <mask>*Ta.php</mask>
       <mask>*Tab.php</mask>
       <mask>*Table.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
