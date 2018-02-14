@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>for</mask>
       <mask>form</mask>
@@ -32,8 +33,8 @@
       <mask>*Table.php</mask>
       <mask>*.js</mask>
       <mask>*Test.php</mask>
-      <mask>*.yml</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
