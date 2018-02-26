@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>form</mask>
       <mask>form*</mask>
@@ -34,8 +35,8 @@
       <mask>*.js</mask>
       <mask>*Test.php</mask>
       <mask>*.php</mask>
-      <mask>*.yml</mask>
       <mask>*.php, !*Test.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
