@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.php" />
+    <option name="FILE_MASK" value="module.config.php" />
     <recentFileMasks>
-      <mask>form*</mask>
-      <mask>*F</mask>
       <mask>*Fa</mask>
       <mask>*Fac</mask>
       <mask>*Fact</mask>
@@ -35,6 +33,8 @@
       <mask>*.php, !*Test.php</mask>
       <mask>*.yml</mask>
       <mask>!*Test.php</mask>
+      <mask>modules..php</mask>
+      <mask>module.config.php</mask>
     </recentFileMasks>
   </component>
 </application>
