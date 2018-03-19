@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Facto</mask>
       <mask>*Factory</mask>
       <mask>*Factory.</mask>
       <mask>*Factory.p</mask>
@@ -34,6 +33,7 @@
       <mask>*.yml</mask>
       <mask>*.php, !*Test*.php</mask>
       <mask>*Test*.php</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
