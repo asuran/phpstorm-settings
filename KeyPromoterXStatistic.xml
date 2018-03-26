@@ -150,7 +150,7 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Stop Listening for PHP Debug Connections</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -175,6 +175,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
