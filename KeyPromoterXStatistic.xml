@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Database</Description>
-          <Count>30</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
