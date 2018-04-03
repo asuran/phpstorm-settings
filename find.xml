@@ -2,40 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*Factory</mask>
-      <mask>*Factory.</mask>
-      <mask>*Factory.p</mask>
-      <mask>*Factory.php</mask>
-      <mask>*Table.ph</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
-      <mask>*.Ефиду=php</mask>
-      <mask>*.Ефидуphp</mask>
-      <mask>*.Ефидphp</mask>
-      <mask>*.Ефиphp</mask>
-      <mask>*.Ефphp</mask>
-      <mask>*.Еphp</mask>
-      <mask>*T.php</mask>
-      <mask>*Ta.php</mask>
-      <mask>*Tab.php</mask>
-      <mask>*Table.php</mask>
-      <mask>*.js</mask>
-      <mask>*Test.php</mask>
-      <mask>*.php</mask>
-      <mask>*.php, !*Test.php</mask>
-      <mask>!*Test.php</mask>
-      <mask>modules..php</mask>
-      <mask>module.config.php</mask>
-      <mask>*.twig</mask>
-      <mask>*.yml</mask>
-      <mask>*.php, !*Test*.php</mask>
-      <mask>*Test*.php</mask>
-      <mask>*.html.twig</mask>
-    </recentFileMasks>
   </component>
 </application>
