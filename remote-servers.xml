@@ -2,7 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="content" type="docker">
       <configuration>
-        <option name="apiUrl" value="https://192.168.99.100:2376" />
+        <option name="apiUrl" value="https://192.168.99.101:2376" />
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/content" />
         <option name="machine" value="content" />
       </configuration>

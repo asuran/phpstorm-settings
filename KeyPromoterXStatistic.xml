@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>492</Count>
+          <Count>493</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run'">
@@ -278,7 +278,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>95</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Transpose">
@@ -294,7 +294,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>79</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
