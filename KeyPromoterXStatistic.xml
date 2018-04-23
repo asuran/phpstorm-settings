@@ -286,7 +286,7 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Stop Listening for PHP Debug Connections</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
