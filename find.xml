@@ -17,7 +17,7 @@
     <mask>!*Cest.php</mask>
     <mask>makefile</mask>
     <mask>*.php, !Version*.php</mask>
-    <mask>*Table.php</mask>
     <mask>Version*.php</mask>
+    <mask>*Table.php</mask>
   </component>
 </application>
