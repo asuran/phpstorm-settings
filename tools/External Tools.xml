@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="PHP CS Fix" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="docker://base.docker.lamoda.ru/utils/php-cs-fixer/php-cs-fixer" />
-      <option name="PARAMETERS" />
+      <option name="COMMAND" value="docker" />
+      <option name="PARAMETERS" value="run -t --rm --net host -v $ProjectFileDir$:/wd:cached -w /wd takamichi/php-cs-fixer fix &quot;$FileDir$/$FileName$&quot; --dry-run --diff --using-cache=false --allow-risky=yes --rules=@Symfony,@PSR2,no_multiline_whitespace_before_semicolons,no_php4_constructor,no_useless_else,no_useless_return,linebreak_after_opening_tag,modernize_types_casting,no_unreachable_default_argument_value,ordered_class_elements,ordered_imports,php_unit_strict,protected_to_private,psr4,semicolon_after_instruction,simplified_null_return,-phpdoc_separation,-phpdoc_align,-function_declaration,-no_multiline_whitespace_before_semicolons" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
