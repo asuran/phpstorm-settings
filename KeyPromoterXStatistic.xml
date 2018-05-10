@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>617</Count>
+          <Count>627</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -126,6 +126,14 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inline...">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'⌥⌘N'</ShortCut>
+          <Description>Inline...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -334,7 +342,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>150</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
