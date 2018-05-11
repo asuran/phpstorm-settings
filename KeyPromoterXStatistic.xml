@@ -65,6 +65,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FallbackBundle (PHPUnit)'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'FallbackBundle (PHPUnit)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'testCustom'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -238,6 +246,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'FailureTypeTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FallbackBundle (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FallbackBundle (PHPUnit)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
