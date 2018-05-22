@@ -102,7 +102,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>929</Count>
+          <Count>932</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -441,6 +449,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Unshelve...">
+        <Item>
+          <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
+          <ShortCut>'⇧⌘U'</ShortCut>
+          <Description>Unshelve...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Variable...">
         <Item>
           <IdeaActionID>IntroduceVariable</IdeaActionID>
@@ -454,7 +470,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>237</Count>
+          <Count>238</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
