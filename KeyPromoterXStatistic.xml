@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FailureType (PHPUnit)'">
@@ -438,7 +446,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>232</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
