@@ -19,7 +19,7 @@
     <mask>*.php, !Version*.php</mask>
     <mask>Version*.php</mask>
     <mask>*Table.php</mask>
-    <mask>*.yml</mask>
     <mask>*Test.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
