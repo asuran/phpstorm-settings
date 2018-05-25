@@ -390,7 +390,7 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Start Listening for PHP Debug Connections</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -414,7 +414,7 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Stop Listening for PHP Debug Connections</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
