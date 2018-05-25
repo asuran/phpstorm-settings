@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Database</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1061</Count>
+          <Count>1066</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>258</Count>
+          <Count>259</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
