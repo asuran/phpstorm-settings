@@ -81,6 +81,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ExampleTest.doctrine'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ExampleTest.doctrine'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FallbackBundle (PHPUnit)'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -110,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1085</Count>
+          <Count>1087</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -214,7 +222,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -295,6 +303,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ExampleTest.doctrine'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ExampleTest.doctrine'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FailureType (PHPUnit)'">
@@ -430,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -462,7 +478,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>158</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Transpose">
