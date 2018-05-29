@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="sprt" value="sprintf($SELECTION$, [$END$])" description="Surround with sprintf() function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+</templateSet>
