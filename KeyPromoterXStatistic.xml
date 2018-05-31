@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Database</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -166,7 +166,7 @@
           <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
           <ShortCut>'⌥⇧⌘B'</ShortCut>
           <Description>Generate DDL to Console</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
