@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Database</Description>
-          <Count>162</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -462,7 +462,7 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Stop Listening for PHP Debug Connections</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
