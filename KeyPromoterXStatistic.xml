@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1326</Count>
+          <Count>1336</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -438,7 +438,7 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Start Listening for PHP Debug Connections</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -470,7 +470,7 @@
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <ShortCut>'⇧⌘F11'</ShortCut>
           <Description>Stop Listening for PHP Debug Connections</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -510,7 +510,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>202</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Transpose">
