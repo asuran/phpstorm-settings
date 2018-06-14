@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1398</Count>
+          <Count>1401</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -497,20 +497,12 @@
           <Count>15</Count>
         </Item>
       </Statistic>
-      <Statistic Action="TODO">
-        <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'⌘6'</ShortCut>
-          <Description>TODO</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>4</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -550,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>344</Count>
+          <Count>341</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
